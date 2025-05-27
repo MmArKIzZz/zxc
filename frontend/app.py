@@ -5,8 +5,8 @@ from datetime import datetime
 import base64
 from io import BytesIO
 
-#BACKEND_URL = "https://qwerty-0ykp.onrender.com"
-BACKEND_URL = "http://localhost:8000"  # Для локального тестирования
+BACKEND_URL = "https://zxc-2.onrender.com"
+#BACKEND_URL = "http://localhost:8000"  # Для локального тестирования
 
 st.title("Система преобразования координат")
 st.markdown("Загрузите Excel-файл с координатами x, y, z для преобразования.")
