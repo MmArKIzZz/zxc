@@ -5,7 +5,7 @@ from datetime import datetime
 import base64
 from io import BytesIO
 
-BACKEND_URL = "https://zxc-2.onrender.com"
+BACKEND_URL = "https://zxc-4egb.onrender.com"
 #BACKEND_URL = "http://localhost:8000"  # Для локального тестирования
 
 st.title("Система преобразования координат")
