@@ -72,7 +72,7 @@ streamlit run app.py
 2. Подключите ваш GitHub репозиторий
 3. Установите следующие параметры:
    - Build Command: `pip install -r requirements.txt`
-   - Start Command: `uvicorn main:app --host 0.0.0.0 --port $PORT`
+   - Start Command: `uvicorn backend.main:app --host 0.0.0.0 --port $PORT`
 4. Разверните сервис
 
 #### Фронтенд (Streamlit Cloud)
